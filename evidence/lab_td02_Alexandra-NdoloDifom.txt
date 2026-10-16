@@ -28,44 +28,14 @@ drwxrwxrwx+ 2 codespace root  4096 Oct 16 08:54 evidence
 drwxrwxrwx+ 2 codespace root  4096 Oct 16 07:26 src
 
 ls -l: 
-@alex-dif ➜ /workspaces/esilv-marketpulse-g06-t02 (Alexandra-NdoloDifom) $ git push ls -l
-error: unknown switch `l'
-usage: git push [<options>] [<repository> [<refspec>...]]
-
-    -v, --[no-]verbose    be more verbose
-    -q, --[no-]quiet      be more quiet
-    --[no-]repo <repository>
-                          repository
-    --[no-]all            push all branches
-    --[no-]branches       alias of --all
-    --[no-]mirror         mirror all refs
-    -d, --[no-]delete     delete refs
-    --[no-]tags           push tags (can't be used with --all or --branches or --mirror)
-    -n, --[no-]dry-run    dry run
-    --[no-]porcelain      machine-readable output
-    -f, --[no-]force      force updates
-    --[no-]force-with-lease[=<refname>:<expect>]
-                          require old value of ref to be at this value
-    --[no-]force-if-includes
-                          require remote updates to be integrated locally
-    --[no-]recurse-submodules (check|on-demand|no)
-                          control recursive pushing of submodules
-    --[no-]thin           use thin pack
-    --[no-]receive-pack <receive-pack>
-                          receive pack program
-    --[no-]exec <receive-pack>
-                          receive pack program
-    -u, --[no-]set-upstream
-                          set upstream for git pull/status
-    --[no-]progress       force progress reporting
-    --[no-]prune          prune locally removed refs
-    --no-verify           bypass pre-push hook
-    --verify              opposite of --no-verify
-    --[no-]follow-tags    push missing but relevant tags
-    --[no-]signed[=(yes|no|if-asked)]
-                          GPG sign the push
-    --[no-]atomic         request atomic transaction on remote side
-    -o, --[no-]push-option <server-specific>
-                          option to transmit
-    -4, --ipv4            use IPv4 addresses only
-    -6, --ipv6            use IPv6 addresses only
+@alex-dif ➜ /workspaces/esilv-marketpulse-g06-t02 (Alexandra-NdoloDifom) $ ls -l 
+total 44
+-rw-rw-rw-  1 codespace root  2943 Oct 16 07:26 CONTRIBUTING.md
+-rw-rw-rw-  1 codespace root 10270 Oct 16 07:26 README.md
+-rw-rw-rw-  1 codespace root  1446 Oct 16 07:26 TEAM_TEMPLATE.md
+drwxrwxrwx+ 2 codespace root  4096 Oct 16 07:26 config
+drwxrwxrwx+ 3 codespace root  4096 Oct 16 07:26 data
+drwxrwxrwx+ 4 codespace root  4096 Oct 16 07:26 docs
+drwxrwxrwx+ 2 codespace root  4096 Oct 16 08:54 evidence
+-rw-rw-rw-  1 codespace root   133 Oct 16 07:26 requirements.txt
+drwxrwxrwx+ 2 codespace root  4096 Oct 16 07:26 src
