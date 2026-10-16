@@ -39,3 +39,17 @@ drwxrwxrwx+ 2 codespace root  4096 Oct 16 08:49 evidence
 -rw-rw-rw-  1 codespace root   133 Oct 16 07:27 requirements.txt
 drwxrwxrwx+ 2 codespace root  4096 Oct 16 07:27 src
 
+@yann160905 ➜ /workspaces/esilv-marketpulse-g06-t02 (yann-creteur) $ cd data
+
+@yann160905 ➜ /workspaces/esilv-marketpulse-g06-t02/data (yann-creteur) $ pwd && ls
+/workspaces/esilv-marketpulse-g06-t02/data
+
+@yann160905 ➜ /workspaces/esilv-marketpulse-g06-t02/data (yann-creteur) $ cd sample
+
+@yann160905 ➜ /workspaces/esilv-marketpulse-g06-t02/data/sample (yann-creteur) $ ls
+bloomberg_reference_expected.json  bloomberg_reference_sample.json  instruments.json  prices.csv
+
+@yann160905 ➜ /workspaces/esilv-marketpulse-g06-t02/data/sample (yann-creteur) $ cd ../..
+
+@yann160905 ➜ /workspaces/esilv-marketpulse-g06-t02 (yann-creteur) $ pwd
+/workspaces/esilv-marketpulse-g06-t02
